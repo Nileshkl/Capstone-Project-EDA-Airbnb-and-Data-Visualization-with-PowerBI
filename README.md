@@ -1,2 +1,6 @@
 # Capstone-Project-EDA-Airbnb
-EDA Capstone Project of Almabetter Full Stack Data Science Program
+Airbnb-Bookings-Analysis-Capstone-Project.
+rainbow
+
+Description:
+This is an EDA capstone project on Airbnb bookings data, for Alma Better full stack data science course.
