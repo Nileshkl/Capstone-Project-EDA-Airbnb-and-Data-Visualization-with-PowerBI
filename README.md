@@ -18,7 +18,7 @@ This is an EDA capstone project on Airbnb bookings data, for [Alma Better](https
 
 Click on the following link to checkout the video presentation.
 
-[Video Presentation of Colab File](link-to-video)
+[Video Presentation of Colab File](https://youtu.be/3PNms7YQNmo)
 
 ---
 
