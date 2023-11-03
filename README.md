@@ -92,3 +92,10 @@ It is important to note that the project's findings were based on data of only 2
 - Abhishek Kulkarni
 - Animesh Mahajan
 - Prajwal Kulkarni
+  
+Start exploring the project for more details and insights!
+
+Feel free to contribute, report issues, or ask questions. Happy coding!
+
+<br> [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nileshkumar-lavand/)
+
