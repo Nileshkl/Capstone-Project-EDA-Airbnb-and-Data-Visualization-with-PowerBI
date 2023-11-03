@@ -10,7 +10,7 @@ This is an EDA capstone project on Airbnb bookings data, for [AlmaBetter](https:
 ---
 
 
-![airbnb-logo-on-smartphone-house-600w-2006496581-Yo3ZEmvXyB-transformed (1)](https://github.com/Nileshkl/Capstone-Project-EDA-Airbnb/assets/53367463/fead259a-160f-44da-a031-b3da7752f8a6)
+![airbnb-logo-on-smartphone-house-600w-2006496581-Yo3ZEmvXyB-transformed (1)](https://github.com/Nileshkl/Capstone-Project-EDA-Airbnb/blob/287713bd2058be80e6f744a39bbce8ea73abb79e/airbnb_logo.gif)
 
 ## Airbnb NYC EDA
 
