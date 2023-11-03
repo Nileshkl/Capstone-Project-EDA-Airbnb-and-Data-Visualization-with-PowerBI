@@ -1,13 +1,11 @@
-# Capstone-Project-EDA-Airbnb
-
-Airbnb-Bookings-Analysis-Capstone-Project.
-
+# :star: AirBnb Booking Analysis (EDA) :star:
+This is EDA Capstone Project on topic Airbnb booking analysis
 ---
 
 
 ## Description
 
-This is an EDA capstone project on Airbnb bookings data, for [Alma Better](https://www.almabetter.com/) full stack data science course.
+This is an EDA capstone project on Airbnb bookings data, for [AlmaBetter](https://www.almabetter.com/) full stack data science course.
 
 ---
 
